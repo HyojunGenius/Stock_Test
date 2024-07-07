@@ -1,0 +1,6 @@
+2024/07/08-02:14:28.947 ab28 Creating DB C:/Users/이효정/Documents/Unreal Projects/stock_test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/07/08-02:14:28.953 ab28 Reusing MANIFEST C:/Users/이효정/Documents/Unreal Projects/stock_test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-02:20:46.179 aec4 Level-0 table #5: started
+2024/07/08-02:20:46.187 aec4 Level-0 table #5: 1167 bytes OK
+2024/07/08-02:20:46.188 aec4 Delete type=0 #3
+2024/07/08-02:20:46.189 aec4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
